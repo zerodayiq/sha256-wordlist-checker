@@ -27,3 +27,5 @@ Do not use it on systems you do not own or have permission to test.
 Install OpenSSL on Debian/Ubuntu:
 ```bash
 sudo apt install libssl-dev
+
+sudo pacman -S openssl
