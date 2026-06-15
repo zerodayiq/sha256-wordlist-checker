@@ -28,6 +28,6 @@ Install OpenSSL on Debian/Ubuntu:
 ```bash
 sudo apt install libssl-dev
 
-```Install OpenSSL on Arch Linux```
+Install OpenSSL on Arch Linux
 
 sudo pacman -S openssl
